@@ -28,8 +28,8 @@ ____
 
 ## Controls
 
-Moving :				<kbd>&nbsp;▲&nbsp;</kbd><kbd>&nbsp;▼&nbsp;</kbd><kbd>&nbsp;◄&nbsp;</kbd><kbd>&nbsp;►&nbsp;</kbd><br/>
-Iterations(x2):			<kbd>&nbsp;+&nbsp;</kbd><kbd>&nbsp;-&nbsp;</kbd><br/>
+Moving :				<kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▲&nbsp;</kbd><kbd>&nbsp;▼&nbsp;</kbd><kbd>&nbsp;◄&nbsp;</kbd><kbd>&nbsp;►&nbsp;</kbd><br/>
+Iterations (x2):		<kbd>&nbsp;+&nbsp;</kbd><kbd>&nbsp;-&nbsp;</kbd><br/>
 Change color:			<kbd>&nbsp;0&nbsp;</kbd><kbd>&nbsp;1&nbsp;</kbd><kbd>&nbsp;2&nbsp;</kbd><kbd>&nbsp;3&nbsp;</kbd><kbd>&nbsp;4&nbsp;</kbd><kbd>&nbsp;5&nbsp;</kbd><kbd>&nbsp;6&nbsp;</kbd><kbd>&nbsp;7&nbsp;</kbd><kbd>&nbsp;8&nbsp;</kbd><kbd>&nbsp;9&nbsp;</kbd> (palette)<br/>
 						<kbd>&nbsp;DELETE&nbsp;</kbd> (smooth)<br/>
 						<kbd>&nbsp;SUPPR&nbsp;</kbd> (cycles)<br/>
