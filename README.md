@@ -28,13 +28,13 @@ ____
 
 ## Controls
 
-Moving :				<kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▲&nbsp;</kbd><kbd>&nbsp;▼&nbsp;</kbd><kbd>&nbsp;◄&nbsp;</kbd><kbd>&nbsp;►&nbsp;</kbd><br/>
-Iterations (x2):		<kbd>&nbsp;+&nbsp;</kbd><kbd>&nbsp;-&nbsp;</kbd><br/>
-Change color:			<kbd>&nbsp;0&nbsp;</kbd><kbd>&nbsp;1&nbsp;</kbd><kbd>&nbsp;2&nbsp;</kbd><kbd>&nbsp;3&nbsp;</kbd><kbd>&nbsp;4&nbsp;</kbd><kbd>&nbsp;5&nbsp;</kbd><kbd>&nbsp;6&nbsp;</kbd><kbd>&nbsp;7&nbsp;</kbd><kbd>&nbsp;8&nbsp;</kbd><kbd>&nbsp;9&nbsp;</kbd> (palette)<br/>
-						<kbd>&nbsp;DELETE&nbsp;</kbd> (smooth)<br/>
-						<kbd>&nbsp;SUPPR&nbsp;</kbd> (cycles)<br/>
-						<kbd>&nbsp;PGUP&nbsp;</kbd><kbd>&nbsp;PGDOWN&nbsp;</kbd> (sharp)<br/>
-						<kbd>&nbsp;F1&nbsp;</kbd><kbd>&nbsp;F2&nbsp;</kbd> (heads)<br/>
+Moving :				<kbd>&nbsp;▲&nbsp;</kbd><kbd>&nbsp;▼&nbsp;</kbd><kbd>&nbsp;◄&nbsp;</kbd><kbd>&nbsp;►&nbsp;</kbd><br/>
+Iterations +/- (x2):	<kbd>&nbsp;+&nbsp;</kbd><kbd>&nbsp;-&nbsp;</kbd><br/>
+Change color palette:	<kbd>&nbsp;0&nbsp;</kbd><kbd>&nbsp;1&nbsp;</kbd><kbd>&nbsp;2&nbsp;</kbd><kbd>&nbsp;3&nbsp;</kbd><kbd>&nbsp;4&nbsp;</kbd><kbd>&nbsp;5&nbsp;</kbd><kbd>&nbsp;6&nbsp;</kbd><kbd>&nbsp;7&nbsp;</kbd><kbd>&nbsp;8&nbsp;</kbd><kbd>&nbsp;9&nbsp;</kbd><br/>
+Smooth on/off:			<kbd>&nbsp;DELETE&nbsp;</kbd><br/>
+Color cycles on/off:	<kbd>&nbsp;SUPPR&nbsp;</kbd><br/>
+Sharp on/off:			<kbd>&nbsp;PGUP&nbsp;</kbd><kbd>&nbsp;PGDOWN&nbsp;</kbd><br/>
+Heads +/-:				<kbd>&nbsp;F1&nbsp;</kbd><kbd>&nbsp;F2&nbsp;</kbd><br/>
 Restart:				<kbd>&nbsp;ENTER&nbsp;</kbd><br/>
 Block Julia parameter:	<kbd>&nbsp;SPACE&nbsp;</kbd><br/>
 Zoom:					Mouse wheel or left click<br/>
@@ -42,11 +42,17 @@ Infos:					<kbd>&nbsp;F12&nbsp;</kbd><br/>
 ____
 
 ## Screenshots
+
 ![Rendu 1](https://github.com/squiquem/fractol/blob/master/screenshots/julia1.PNG)
+
 ![Rendu 2](https://github.com/squiquem/fractol/blob/master/screenshots/mandelbrot1.PNG)
+
 ![Rendu 3](https://github.com/squiquem/fractol/blob/master/screenshots/julia2.PNG)
+
 ![Rendu 4](https://github.com/squiquem/fractol/blob/master/screenshots/mandelbrot2.PNG)
+
 ![Rendu 5](https://github.com/squiquem/fractol/blob/master/screenshots/tricorn.PNG)
+
 ![Rendu 6](https://github.com/squiquem/fractol/blob/master/screenshots/newton.PNG)
 ____
 
