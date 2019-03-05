@@ -1,0 +1,6 @@
+.DS_Store
+fractol
+*.a
+*.o
+libft/obj
+objects/
